@@ -21,3 +21,7 @@
 /yarn-error.log
 
 .byebug_history
+
+# vim swp and swo
+*.swp
+*.swo
